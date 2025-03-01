@@ -62,7 +62,7 @@ GitPython==3.1.43
 greenlet==3.1.1
 grpcio==1.68.1
 # gruut==2.2.3
-grunt>=2.4.0
+gruut>=2.4.0
 gruut-ipa==0.13.0
 gruut_lang_de==2.0.1
 gruut_lang_en==2.0.1
