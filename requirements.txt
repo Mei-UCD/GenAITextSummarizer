@@ -72,6 +72,7 @@ gruut_lang_en
 gruut_lang_es
 gruut_lang_fr
 gTTS
+gunicorn
 h11
 h2
 hangul-romanize
